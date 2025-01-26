@@ -1,6 +1,2 @@
 # Tutorial
-
-
-hubba hubba
-
-change
+ken is ken
